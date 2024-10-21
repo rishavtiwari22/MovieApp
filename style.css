@@ -127,9 +127,11 @@ span>.logo>img{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    text-align: center;
     overflow-y: auto;
-
+    line-height: 22px;
 }
+
 
 .main>.cart{
     height: 400px;
